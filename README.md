@@ -111,6 +111,7 @@ Benchmarking
 Documentation
     ↓
 Git / GitHub
+```
 
 ## Featured Projects
 
@@ -194,4 +195,5 @@ Benchmarking
     ↓
 Documentation
     ↓
-Git / GitHub ```
+Git / GitHub
+ ```
