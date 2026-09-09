@@ -141,6 +141,33 @@ A from-scratch implementation focused on understanding how a dynamic array works
 [View Repository →](https://github.com/NiteenDigarse/cpp-custom-vector)
 
 ---
+## CustomString
+
+**Modern C++ custom string implementation**
+
+A from-scratch string implementation focused on understanding dynamic character storage, memory ownership, copy/move semantics, reallocation, and string operations internally.
+
+**Key areas:**
+
+- Dynamic C-string storage
+- Size and capacity management
+- Dynamic memory allocation
+- Copy and move semantics
+- Rule of Five
+- Deep copy and resource ownership
+- Move semantics
+- String concatenation and modification
+- Insert and erase operations
+- Iterators
+- Bounds-checked access
+- Pointer aliasing
+- Exception handling
+- Testing
+- CMake-based project structure
+
+[View Repository →](https://github.com/NiteenDigarse/cpp-custom-string)
+
+---
 
 **More C++ engineering projects will be added as I progress through the roadmap.**
 
