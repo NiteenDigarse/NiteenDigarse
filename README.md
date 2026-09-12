@@ -301,6 +301,54 @@ CMake-based project structure
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+CustomLinkedList
+
+Modern C++ singly linked list implementation
+
+A from-scratch implementation focused on understanding how a linked list works internally, including node management, ownership, and traversal rather than simply using std::list.
+
+Key areas:
+
+Dynamic node allocation and deallocation
+
+Manual memory management
+
+Node ownership and resource lifetime
+
+Copy and move semantics
+
+Rule of Five
+
+RAII and resource management
+
+Exception handling
+
+Forward and const iterators
+
+Range-based for loop support
+
+Bounds-checked access
+
+Dedicated testing and stress testing
+
+CMake-based project structure
+
+<br>
+
+<a href="https://github.com/NiteenDigarse/custom-linked-list">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 More C++ engineering projects will be added as I progress through the roadmap.
