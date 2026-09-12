@@ -1,22 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:111827&text=NITEEN%20DIGARSE&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=C%2B%2B%20Software%20Engineer%20in%20Progress&descColor=58A6FF&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0F172A,100:111827&text=NITEEN%20DIGARSE&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=C%2B%2B%20Software%20Engineer%20in%20Progress&descColor=58A6FF&descAlignY=61&descSize=20&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/NiteenDigarse">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Systems+Programming+%7C+Performance+Engineering;Modern+C%2B%2B+%7C+Memory+%7C+Concurrency;Object+Lifetime+%7C+RAII+%7C+Templates+%7C+STL+Internals;Understand+the+mechanism%2C+not+just+the+syntax." alt="C++ Systems Engineering typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Systems+Programming+%7C+Performance+Engineering;Modern+C%2B%2B+%7C+Memory+%7C+Concurrency;Object+Lifetime+%7C+RAII+%7C+Templates+%7C+STL+Internals;Understand+the+mechanism%2C+not+just+the+syntax." alt="C++ Systems Engineering"/>
 
 <br>
 
-<a href="https://github.com/NiteenDigarse?tab=repositories">
-<img src="https://img.shields.io/badge/C%2B%2B20-Systems%20Engineering-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++20"/>
-</a>
-<a href="https://github.com/NiteenDigarse">
-<img src="https://img.shields.io/badge/Projects-50%2B-111827?style=for-the-badge" alt="50+ Projects"/>
-</a>
-<a href="https://github.com/NiteenDigarse/NiteenDigarse">
-<img src="https://img.shields.io/badge/Focus-Performance%20%26%20Systems-111827?style=for-the-badge" alt="Performance and Systems"/>
-</a>
+<img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++20"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20ENGINEERING-111827?style=for-the-badge" alt="Systems Engineering"/>
+<img src="https://img.shields.io/badge/50%2B%20PROJECTS-111827?style=for-the-badge" alt="50+ Projects"/>
+<img src="https://img.shields.io/badge/PERFORMANCE%20%26%20SYSTEMS-111827?style=for-the-badge" alt="Performance and Systems"/>
 
 </div>
 
@@ -32,12 +25,10 @@ I’m following a structured C++ Mastery Roadmap while simultaneously building 5
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiteenDigarse&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170" alt="Niteen's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteenDigarse&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=NiteenDigarse&theme=transparent&hide_border=true" height="170" alt="GitHub Streak"/>
+<img src="https://img.shields.io/github/followers/NiteenDigarse?style=flat-square&label=Followers" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/NiteenDigarse?style=flat-square&label=Total%20Stars" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/commit-activity/y/NiteenDigarse/NiteenDigarse?style=flat-square&label=Activity" alt="GitHub Activity"/>
+<img src="https://komarev.com/ghpvc/?username=NiteenDigarse&style=flat-square&label=Profile%20Views" alt="Profile Views"/>
 
 </div>
 
@@ -47,19 +38,70 @@ I am following a structured C++ Mastery Roadmap focused on understanding C++ bey
 
 Learning Path
 
-Core C++ & OOP → Operator Overloading → Inheritance & Polymorphism → Resource Management → Modern C++ → Lambdas & Callables → Advanced Templates → SFINAE & Concepts → Compile-Time C++ → Memory & Allocators → STL Internals → Multithreading & Concurrency → File Handling & Move-Only Types → Design Patterns → Modern C++ Best Practices
+<table>
+<tr>
+<td align="center"><b>01</b><br>Core C++ & OOP</td>
+<td align="center">→</td>
+<td align="center"><b>02</b><br>Operator Overloading</td>
+<td align="center">→</td>
+<td align="center"><b>03</b><br>Inheritance & Polymorphism</td>
+<td align="center">→</td>
+<td align="center"><b>04</b><br>Resource Management</td>
+</tr>
+<tr>
+<td align="center"><b>05</b><br>Modern C++</td>
+<td align="center">→</td>
+<td align="center"><b>06</b><br>Lambdas & Callables</td>
+<td align="center">→</td>
+<td align="center"><b>07</b><br>Advanced Templates</td>
+<td align="center">→</td>
+<td align="center"><b>08</b><br>SFINAE & Concepts</td>
+</tr>
+<tr>
+<td align="center"><b>09</b><br>Compile-Time C++</td>
+<td align="center">→</td>
+<td align="center"><b>10</b><br>Memory & Allocators</td>
+<td align="center">→</td>
+<td align="center"><b>11</b><br>STL Internals</td>
+<td align="center">→</td>
+<td align="center"><b>12</b><br>Multithreading & Concurrency</td>
+</tr>
+<tr>
+<td align="center"><b>13</b><br>File Handling & Move-Only Types</td>
+<td align="center">→</td>
+<td align="center"><b>14</b><br>Design Patterns</td>
+<td align="center">→</td>
+<td align="center"><b>15</b><br>Modern C++ Best Practices</td>
+<td align="center">✓</td>
+<td></td>
+</tr>
+</table>
 
 Core Concepts
+
+<table>
+<tr>
+<td>
 
 Object Lifetime · Pointers & References · Const Correctness
 
 Copy & Move Semantics · Ownership · RAII · Smart Pointers
 
+</td>
+<td>
+
 Polymorphism · Templates · SFINAE · Concepts
 
 constexpr · Memory Alignment · Placement new · Allocators
 
+</td>
+<td>
+
 STL Internals · Concurrency · Exception Safety · API Design
+
+</td>
+</tr>
+</table>
 
 Current Progress
 
@@ -68,6 +110,10 @@ Currently progressing through the C++ Mastery Roadmap, strengthening advanced C+
 Engineering Focus
 
 My learning is centered around building a strong foundation in:
+
+<table>
+<tr>
+<td valign="top">
 
 Modern C++ — C++20 and modern language practices
 
@@ -79,6 +125,9 @@ Generic Programming — templates, variadic templates, SFINAE and concepts
 
 Compile-Time Programming — constexpr, consteval, constant expressions
 
+</td>
+<td valign="top">
+
 STL & Library Internals — containers, iterators, allocators and implementation thinking
 
 Concurrency — multithreading, synchronization and thread-safe design
@@ -89,59 +138,82 @@ Systems Programming — low-level memory, resources and system-oriented design
 
 Software Engineering — testing, debugging, exception safety, API design and CMake
 
+</td>
+</tr>
+</table>
+
 C++ Engineering Projects
 
 Alongside the C++ Mastery Roadmap, I am building 50+ progressively challenging C++ engineering projects.
 
 The goal is not to build random projects, but to apply C++ concepts to increasingly complex software systems.
 
-Foundation
+<table>
+<tr>
+<td width="20%" align="center"><h3>01</h3><b>Foundation</b></td>
+<td>
 
 CustomVector → CustomString → CustomArray → CustomStack → CustomQueue → CustomHashMap → CustomSet → MemoryPool → Logger → ConfigurationParser
 
-Systems
+</td>
+</tr>
+<tr>
+<td align="center"><h3>02</h3><b>Systems</b></td>
+<td>
 
 File System Explorer → Thread Pool → Task Scheduler → HTTP Client → HTTP Server → TCP Chat Server → UDP Networking Framework → JSON Parser → Command Line Framework
 
-Serious Engineering
+</td>
+</tr>
+<tr>
+<td align="center"><h3>03</h3><b>Serious Engineering</b></td>
+<td>
 
 Database Engine → Key-Value Store → LRU Cache → Redis-like Cache Server → Message Queue → Event Loop → Async Runtime → Memory Allocator → Object Pool → Embedded Database
 
-Advanced Systems
+</td>
+</tr>
+<tr>
+<td align="center"><h3>04</h3><b>Advanced Systems</b></td>
+<td>
 
 Mini Compiler → Lexer → Parser → AST Engine → Bytecode VM → Interpreter → JIT Compiler → Process Manager → Shell → Linux-like File System
 
-Big Engineering
+</td>
+</tr>
+<tr>
+<td align="center"><h3>05</h3><b>Big Engineering</b></td>
+<td>
 
 Mini OS → Game Engine → Distributed Key-Value Database → Search Engine → Compiler → Distributed Message Broker → High Performance HTTP Server → Database Query Engine → Custom Programming Language → C++ Runtime
+
+</td>
+</tr>
+</table>
 
 Engineering Workflow
 
 Every project follows a structured workflow:
 
-Requirements
-    ↓
-Architecture
-    ↓
-Memory Model
-    ↓
-Implementation
-    ↓
-Testing
-    ↓
-Debugging
-    ↓
-Benchmarking
-    ↓
-Documentation
-    ↓
-Git / GitHub
+<div align="center">
+
+Requirements → Architecture → Memory Model → Implementation → Testing
+
+↓
+
+Debugging → Benchmarking → Documentation → Git / GitHub
+
+</div>
 
 Featured Projects
 
 These are the projects I have actually completed as part of my C++ engineering journey.
 
-⚙️ CustomVector
+<table>
+<tr>
+<td width="50%" valign="top">
+
+CustomVector
 
 Modern C++ dynamic vector implementation
 
@@ -173,15 +245,17 @@ Testing and benchmarking
 
 CMake-based project structure
 
-<div align="center">
+<br>
 
 <a href="https://github.com/NiteenDigarse/cpp-custom-vector">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-CustomVector-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View CustomVector Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
-</div>
+</td>
 
-🧵 CustomString
+<td width="50%" valign="top">
+
+CustomString
 
 Modern C++ custom string implementation
 
@@ -219,13 +293,15 @@ Testing
 
 CMake-based project structure
 
-<div align="center">
+<br>
 
 <a href="https://github.com/NiteenDigarse/cpp-custom-string">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-CustomString-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View CustomString Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 More C++ engineering projects will be added as I progress through the roadmap.
 
@@ -259,26 +335,18 @@ I focus on understanding why a C++ feature exists, how it works internally, and 
 
 For every engineering project, I follow:
 
-Requirements
-    ↓
-Architecture
-    ↓
-Memory Model
-    ↓
-Implementation
-    ↓
-Testing
-    ↓
-Debugging
-    ↓
-Benchmarking
-    ↓
-Documentation
-    ↓
-Git / GitHub
+<div align="center">
+
+Requirements → Architecture → Memory Model → Implementation → Testing
+
+↓
+
+Debugging → Benchmarking → Documentation → Git / GitHub
+
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:111827,50:0f172a,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:111827,50:0F172A,100:020617" width="100%"/>
 
 </div>
