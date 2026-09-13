@@ -27,8 +27,26 @@ I’m following a structured C++ Mastery Roadmap while simultaneously building 5
 
 <img src="https://img.shields.io/github/followers/NiteenDigarse?style=flat-square&label=Followers" alt="GitHub Followers"/>
 <img src="https://img.shields.io/github/stars/NiteenDigarse?style=flat-square&label=Total%20Stars" alt="GitHub Stars"/>
-<img src="https://img.shields.io/github/commit-activity/y/NiteenDigarse/NiteenDigarse?style=flat-square&label=Activity" alt="GitHub Activity"/>
 <img src="https://komarev.com/ghpvc/?username=NiteenDigarse&style=flat-square&label=Profile%20Views" alt="Profile Views"/>
+
+</div>
+
+📊 Stats
+
+<div align="center">
+
+<a href="https://github.com/NiteenDigarse">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NiteenDigarse&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Niteen Digarse's GitHub stats"/>
+</a>
+<a href="https://github.com/NiteenDigarse">
+<img width="49%" src="https://streak-stats.demolab.com?user=NiteenDigarse&hide_border=true&theme=transparent" alt="Niteen Digarse's GitHub commit streak"/>
+</a>
+
+<br>
+
+<a href="https://github.com/NiteenDigarse">
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=NiteenDigarse&theme=github-compact&hide_border=true&area=true" alt="Niteen Digarse's contribution graph"/>
+</a>
 
 </div>
 
