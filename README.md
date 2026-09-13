@@ -50,6 +50,38 @@ I’m following a structured C++ Mastery Roadmap while simultaneously building 5
 
 </div>
 
+⚙️ Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<b>Modern C++</b><br>
+Object Lifetime · RAII<br>
+Copy / Move Semantics · Templates
+
+</td>
+<td align="center" width="33%">
+
+<b>Systems Engineering</b><br>
+Memory · Concurrency<br>
+Networking · Performance
+
+</td>
+<td align="center" width="33%">
+
+<b>Engineering Projects</b><br>
+Custom Containers · Runtime Components<br>
+Systems-Level C++ Implementations
+
+</td>
+</tr>
+</table>
+
+</div>
+
 C++ Mastery
 
 I am following a structured C++ Mastery Roadmap focused on understanding C++ beyond syntax and learning how the language works at a deeper level.
@@ -393,6 +425,24 @@ Development Practices
 
 Testing · Debugging · Benchmarking · API Design · Documentation
 
+🧠 Engineering Mindset
+
+<div align="center">
+
+SOURCE CODE
+     ↓
+OBJECT LIFETIME
+     ↓
+MEMORY & OWNERSHIP
+     ↓
+CPU / OS BEHAVIOUR
+     ↓
+SYSTEM DESIGN
+     ↓
+PERFORMANCE
+
+</div>
+
 Engineering Philosophy
 
 Understand the mechanism, not just the syntax.
@@ -408,6 +458,40 @@ Requirements → Architecture → Memory Model → Implementation → Testing
 ↓
 
 Debugging → Benchmarking → Documentation → Git / GitHub
+
+</div>
+
+🎯 Engineering Direction
+
+<div align="center">
+
+Focus
+
+Direction
+
+01
+
+Deep Modern C++
+
+02
+
+Memory & Resource Management
+
+03
+
+Concurrency & Multithreading
+
+04
+
+Networking & Systems Programming
+
+05
+
+Performance Engineering
+
+06
+
+Production-Grade C++ Systems
 
 </div>
 
