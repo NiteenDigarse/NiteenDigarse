@@ -36,7 +36,7 @@ I’m following a structured C++ Mastery Roadmap while simultaneously building 5
 <div align="center">
 
 <a href="https://github.com/NiteenDigarse">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NiteenDigarse&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Niteen Digarse's GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiteenDigarse&theme=github_dark&hide_logo=true&animation=load&duration=2" alt="Niteen Digarse's GitHub stats"/>
 </a>
 <a href="https://github.com/NiteenDigarse">
 <img width="49%" src="https://streak-stats.demolab.com?user=NiteenDigarse&hide_border=true&theme=transparent" alt="Niteen Digarse's GitHub commit streak"/>
@@ -45,7 +45,7 @@ I’m following a structured C++ Mastery Roadmap while simultaneously building 5
 <br>
 
 <a href="https://github.com/NiteenDigarse">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=NiteenDigarse&theme=github-compact&hide_border=true&area=true" alt="Niteen Digarse's contribution graph"/>
+<img width="80%" src="https://ghchart.rshah.org/58A6FF/NiteenDigarse" alt="Niteen Digarse's contribution graph"/>
 </a>
 
 </div>
