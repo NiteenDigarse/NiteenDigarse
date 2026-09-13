@@ -407,9 +407,17 @@ Tools & Technologies
 
 Languages
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js" alt="C++, C, Java, JavaScript"/>
+</div>
+
 C++ · C · Java · JavaScript
 
 C++ & Systems
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,linux" alt="C++, CMake, Git, GitHub, Linux"/>
+</div>
 
 C++20 · STL · CMake · Git · GitHub · Linux
 
@@ -419,9 +427,17 @@ DSA · OOP · Memory Management · Object Lifetime · RAII
 
 Templates · Generic Programming · Concurrency · Exception Safety
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,docker,kubernetes,linux,githubactions" alt="Web Development, Docker, Kubernetes, Linux, CI/CD"/>
+</div>
+
 Performance Engineering · Systems Programming
 
 Development Practices
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,jenkins,bash" alt="GitHub Actions, Docker, Kubernetes, Jenkins, Bash"/>
+</div>
 
 Testing · Debugging · Benchmarking · API Design · Documentation
 
