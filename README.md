@@ -255,7 +255,7 @@ Debugging → Benchmarking → Documentation → Git / GitHub
 
 </div>
 
-Featured Projects
+## Featured Projects
 
 These are the projects I have actually completed as part of my C++ engineering journey.
 
@@ -397,9 +397,52 @@ CMake-based project structure
 
 <td width="50%" valign="top">
 
+CustomArray
+
+Modern C++ fixed-size array implementation
+
+A from-scratch fixed-size array container focused on understanding contiguous memory, compile-time sizing, templates, iterators, const-correctness, and object lifetime rather than simply using std::array.
+
+Key areas:
+
+Fixed-size contiguous storage
+
+Compile-time size through non-type template parameters
+
+Template-based container design
+
+Unchecked and bounds-checked access
+
+References and const-correctness
+
+Iterators and range-based for loops
+
+Object lifetime and embedded storage
+
+Copy and move semantics
+
+Rule of Zero
+
+Exception handling
+
+Edge-case testing
+
+CTest-based automated testing
+
+Performance benchmarking
+
+CMake-based project structure
+
+<br>
+
+<a href="https://github.com/NiteenDigarse/cpp-custom-array">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
 </td>
 </tr>
 </table>
+
 
 More C++ engineering projects will be added as I progress through the roadmap.
 
