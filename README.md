@@ -27,7 +27,7 @@ I’m following a structured C++ Mastery Roadmap while simultaneously building 5
 
 <img src="https://img.shields.io/github/followers/NiteenDigarse?style=flat-square&label=Followers" alt="GitHub Followers"/>
 <img src="https://img.shields.io/github/stars/NiteenDigarse?style=flat-square&label=Total%20Stars" alt="GitHub Stars"/>
-<img src="https://shieldcn.dev/views/user/NiteenDigarse.svg?variant=secondary&size=sm&logo=false" alt="Profile Views"/>
+<img src="https://vbr.nathanchung.dev/badge?page_id=NiteenDigarse&style=flat-square&text=Profile_Views" alt="Profile Views"/>
 
 </div>
 
