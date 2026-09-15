@@ -82,6 +82,71 @@ Systems-Level C++ Implementations
 
 </div>
 
+## Technical Skills
+
+My primary engineering focus is **C++ Systems Development and DevOps Engineering**, while I also have foundational knowledge across multiple programming languages, development stacks, tools and data technologies.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>Primary Focus</b><br>
+
+C++20 · Systems Programming · Linux · Bash / Shell Scripting<br>
+Memory Management · Object Lifetime · RAII · Concurrency<br>
+Networking · Performance Engineering · System Design<br>
+CMake · Git · GitHub · Docker · CI/CD
+
+</td>
+<td width="50%" valign="top">
+
+<b>Programming Languages</b><br>
+
+C++ · C · Java · Python · JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<b>DevOps & Engineering Tools</b><br>
+
+Docker · CI/CD · Jenkins · Git · GitHub · CMake · Jira
+
+</td>
+<td width="50%" valign="top">
+
+<b>Web Development</b><br>
+
+HTML · CSS · JavaScript · React · Node.js · Express.js<br>
+MongoDB · MERN Stack · Electron · Full Stack Web Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<b>Computer Science & Problem Solving</b><br>
+
+Data Structures & Algorithms · OOP · Memory Management<br>
+Object Lifetime · Concurrency · Systems Programming
+
+</td>
+<td width="50%" valign="top">
+
+<b>Data & Analytics</b><br>
+
+Excel · Tableau · NumPy · Pandas
+
+</td>
+</tr>
+</table>
+
+> **Focus:** C++ Systems Development · Linux · Networking · Bash/Shell · Performance Engineering · DevOps Engineering
+
+
 C++ Mastery
 
 I am following a structured C++ Mastery Roadmap focused on understanding C++ beyond syntax and learning how the language works at a deeper level.
