@@ -241,6 +241,133 @@ Mini OS → Game Engine → Distributed Key-Value Database → Search Engine →
 </tr>
 </table>
 
+
+## Linux, Bash & DevOps Engineering Projects
+
+Alongside my C++ Mastery Roadmap and 50+ C++ Engineering Projects, I am progressively building practical **Linux, Bash/Shell, Networking and DevOps fundamentals** by integrating them directly into C++ system-level projects.
+
+The goal is not to study these technologies separately, but to learn them through real engineering requirements while keeping **C++ as the primary engineering focus**.
+
+<table>
+<tr>
+<td width="20%" align="center"><h3>01</h3><b>Linux Foundation</b></td>
+<td>
+
+Linux System Information CLI → Disk & Directory Analyzer → Linux Process Explorer
+
+Core areas:
+
+Linux CLI · Filesystem · `/proc` · File Metadata · Permissions · Processes · System Information · C++ Filesystem · System-oriented CLI Design
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>02</h3><b>Bash & Automation</b></td>
+<td>
+
+C++ Log Analyzer → System Health Monitor
+
+Core areas:
+
+Bash/Shell Scripting · grep · sed · awk · Pipes · Redirection · Exit Codes · Environment Variables · Cron · Log Processing · Automation
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>03</h3><b>System Programming</b></td>
+<td>
+
+Linux Process Manager → Mini Linux Shell
+
+Core areas:
+
+Processes · `fork()` · `exec()` · `wait()` · Signals · Process Lifecycle · Pipes · Standard Streams · Background Processes · Command Execution
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>04</h3><b>Networking</b></td>
+<td>
+
+C++ TCP Client/Server → Multi-threaded C++ Server → Production-Style C++ HTTP Server
+
+Core areas:
+
+IP · Ports · TCP · UDP · Sockets · Client/Server Architecture · `bind()` · `listen()` · `accept()` · `connect()` · `send()` · `recv()` · HTTP · Multithreading · Thread Pools · Concurrent Systems
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>05</h3><b>Build & Engineering</b></td>
+<td>
+
+C++ Build & Deployment CLI → Testing & Build Automation
+
+Core areas:
+
+CMake · Build Systems · Compiler Configuration · Build Artifacts · Unit Testing · Integration Testing · Git · GitHub · Bash Automation · Engineering Workflows
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>06</h3><b>Services & Monitoring</b></td>
+<td>
+
+C++ Service Watchdog → C++ System Monitoring Agent
+
+Core areas:
+
+Linux Services · systemd · Process Monitoring · Signals · Logs · CPU · Memory · Disk · Network Metrics · Health Checks · Monitoring · Automated Recovery
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>07</h3><b>Docker & CI/CD</b></td>
+<td>
+
+Containerized C++ Service → C++ CI/CD Pipeline
+
+Core areas:
+
+Docker · Dockerfile · Images · Containers · Ports · Volumes · Environment Variables · GitHub Actions · Continuous Integration · Continuous Delivery · Automated Build · Automated Testing · Artifacts
+
+</td>
+</tr>
+<tr>
+<td align="center"><h3>08</h3><b>Advanced Systems</b></td>
+<td>
+
+Distributed Log Collector → Mini CI/CD Runner → Linux Service Manager → Mini Container Runtime → Distributed System Monitor → Production-Style C++ System Platform
+
+Core areas:
+
+Distributed Systems · Process Isolation · Linux Namespaces · cgroups · Resource Limits · Service Management · Networking · Concurrency · CI/CD Concepts · Deployment · Monitoring · Fault Handling
+
+</td>
+</tr>
+</table>
+
+### Hybrid Engineering Workflow
+
+Each project is developed through a practical discovery-based workflow:
+
+<div align="center">
+
+Project Requirement → Identify the Unknown → Learn the Required Concept → Small Experiment
+
+↓
+
+C++ Implementation → Linux / Bash Integration → Testing → Debugging
+
+↓
+
+Refactoring → CMake / Git → Automation → Documentation → CI/CD where relevant
+
+</div>
+
+The purpose is to build practical knowledge of Linux, Shell Scripting, Networking and DevOps **while solving real C++ engineering problems**, rather than treating them as disconnected technologies.
+
+
 Engineering Workflow
 
 Every project follows a structured workflow:
