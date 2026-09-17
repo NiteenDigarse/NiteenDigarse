@@ -82,9 +82,9 @@ Systems-Level C++ Implementations
 
 </div>
 
-## Technical Skills
+Technical Skills
 
-My primary engineering focus is **C++ Systems Development and DevOps Engineering**, while I also have foundational knowledge across multiple programming languages, development stacks, tools and data technologies.
+My primary engineering focus is C++ Systems Development and DevOps Engineering, while I also have foundational knowledge across multiple programming languages, development stacks, tools and data technologies.
 
 <table>
 <tr>
@@ -144,8 +144,7 @@ Excel · Tableau · NumPy · Pandas
 </tr>
 </table>
 
-> **Focus:** C++ Systems Development · Linux · Networking · Bash/Shell · Performance Engineering · DevOps Engineering
-
+Focus: C++ Systems Development · Linux · Networking · Bash/Shell · Performance Engineering · DevOps Engineering
 
 C++ Mastery
 
@@ -306,12 +305,11 @@ Mini OS → Game Engine → Distributed Key-Value Database → Search Engine →
 </tr>
 </table>
 
+Linux, Bash & DevOps Engineering Projects
 
-## Linux, Bash & DevOps Engineering Projects
+Alongside my C++ Mastery Roadmap and 50+ C++ Engineering Projects, I am progressively building practical Linux, Bash/Shell, Networking and DevOps fundamentals by integrating them directly into C++ system-level projects.
 
-Alongside my C++ Mastery Roadmap and 50+ C++ Engineering Projects, I am progressively building practical **Linux, Bash/Shell, Networking and DevOps fundamentals** by integrating them directly into C++ system-level projects.
-
-The goal is not to study these technologies separately, but to learn them through real engineering requirements while keeping **C++ as the primary engineering focus**.
+The goal is not to study these technologies separately, but to learn them through real engineering requirements while keeping C++ as the primary engineering focus.
 
 <table>
 <tr>
@@ -322,7 +320,7 @@ Linux System Information CLI → Disk & Directory Analyzer → Linux Process Exp
 
 Core areas:
 
-Linux CLI · Filesystem · `/proc` · File Metadata · Permissions · Processes · System Information · C++ Filesystem · System-oriented CLI Design
+Linux CLI · Filesystem · /proc · File Metadata · Permissions · Processes · System Information · C++ Filesystem · System-oriented CLI Design
 
 </td>
 </tr>
@@ -346,7 +344,7 @@ Linux Process Manager → Mini Linux Shell
 
 Core areas:
 
-Processes · `fork()` · `exec()` · `wait()` · Signals · Process Lifecycle · Pipes · Standard Streams · Background Processes · Command Execution
+Processes · fork() · exec() · wait() · Signals · Process Lifecycle · Pipes · Standard Streams · Background Processes · Command Execution
 
 </td>
 </tr>
@@ -358,7 +356,7 @@ C++ TCP Client/Server → Multi-threaded C++ Server → Production-Style C++ HTT
 
 Core areas:
 
-IP · Ports · TCP · UDP · Sockets · Client/Server Architecture · `bind()` · `listen()` · `accept()` · `connect()` · `send()` · `recv()` · HTTP · Multithreading · Thread Pools · Concurrent Systems
+IP · Ports · TCP · UDP · Sockets · Client/Server Architecture · bind() · listen() · accept() · connect() · send() · recv() · HTTP · Multithreading · Thread Pools · Concurrent Systems
 
 </td>
 </tr>
@@ -412,7 +410,7 @@ Distributed Systems · Process Isolation · Linux Namespaces · cgroups · Resou
 </tr>
 </table>
 
-### Hybrid Engineering Workflow
+Hybrid Engineering Workflow
 
 Each project is developed through a practical discovery-based workflow:
 
@@ -430,8 +428,7 @@ Refactoring → CMake / Git → Automation → Documentation → CI/CD where rel
 
 </div>
 
-The purpose is to build practical knowledge of Linux, Shell Scripting, Networking and DevOps **while solving real C++ engineering problems**, rather than treating them as disconnected technologies.
-
+The purpose is to build practical knowledge of Linux, Shell Scripting, Networking and DevOps while solving real C++ engineering problems, rather than treating them as disconnected technologies.
 
 Engineering Workflow
 
@@ -447,95 +444,36 @@ Debugging → Benchmarking → Documentation → Git / GitHub
 
 </div>
 
-## Featured Projects
+Featured Projects
 
 These are the projects I have actually completed as part of my C++ engineering journey.
 
 <table>
+
 <tr>
-<td width="50%" valign="top">
+<td width="75%">
 
-CustomVector
+<b>CustomVector</b>
 
-Modern C++ dynamic vector implementation
+</td>
 
-A from-scratch implementation focused on understanding how a dynamic array works internally rather than simply using std::vector.
-
-Key areas:
-
-Dynamic storage and capacity growth
-
-Raw memory allocation
-
-Object construction and destruction
-
-Object lifetime management
-
-Copy and move semantics
-
-Rule of Five
-
-Ownership and resource management
-
-Exception safety
-
-Iterators
-
-Bounds-checked access
-
-Testing and benchmarking
-
-CMake-based project structure
-
-<br>
+<td width="25%" align="right">
 
 <a href="https://github.com/NiteenDigarse/cpp-custom-vector">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td>
 
-CustomString
+<b>CustomString</b>
 
-Modern C++ custom string implementation
+</td>
 
-A from-scratch string implementation focused on understanding dynamic character storage, memory ownership, copy/move semantics, reallocation, and string operations internally.
-
-Key areas:
-
-Dynamic C-string storage
-
-Size and capacity management
-
-Dynamic memory allocation
-
-Copy and move semantics
-
-Rule of Five
-
-Deep copy and resource ownership
-
-Move semantics
-
-String concatenation and modification
-
-Insert and erase operations
-
-Iterators
-
-Bounds-checked access
-
-Pointer aliasing
-
-Exception handling
-
-Testing
-
-CMake-based project structure
-
-<br>
+<td align="right">
 
 <a href="https://github.com/NiteenDigarse/cpp-custom-string">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
@@ -545,87 +483,29 @@ CMake-based project structure
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td>
 
-CustomLinkedList
+<b>CustomLinkedList</b>
 
-Modern C++ singly linked list implementation
+</td>
 
-A from-scratch implementation focused on understanding how a linked list works internally, including node management, ownership, and traversal rather than simply using std::list.
-
-Key areas:
-
-Dynamic node allocation and deallocation
-
-Manual memory management
-
-Node ownership and resource lifetime
-
-Copy and move semantics
-
-Rule of Five
-
-RAII and resource management
-
-Exception handling
-
-Forward and const iterators
-
-Range-based for loop support
-
-Bounds-checked access
-
-Dedicated testing and stress testing
-
-CMake-based project structure
-
-<br>
+<td align="right">
 
 <a href="https://github.com/NiteenDigarse/custom-linked-list">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td>
 
-CustomArray
+<b>CustomArray</b>
 
-Modern C++ fixed-size array implementation
+</td>
 
-A from-scratch fixed-size array container focused on understanding contiguous memory, compile-time sizing, templates, iterators, const-correctness, and object lifetime rather than simply using std::array.
-
-Key areas:
-
-Fixed-size contiguous storage
-
-Compile-time size through non-type template parameters
-
-Template-based container design
-
-Unchecked and bounds-checked access
-
-References and const-correctness
-
-Iterators and range-based for loops
-
-Object lifetime and embedded storage
-
-Copy and move semantics
-
-Rule of Zero
-
-Exception handling
-
-Edge-case testing
-
-CTest-based automated testing
-
-Performance benchmarking
-
-CMake-based project structure
-
-<br>
+<td align="right">
 
 <a href="https://github.com/NiteenDigarse/cpp-custom-array">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
@@ -633,10 +513,238 @@ CMake-based project structure
 
 </td>
 </tr>
+
 </table>
 
-
 More C++ engineering projects will be added as I progress through the roadmap.
+
+Linux, Bash & DevOps Engineering Projects
+
+These projects are separate from the 50+ C++ Engineering Projects and focus on applying C++ with Linux, Bash/Shell, Networking, Docker, CI/CD and system engineering.
+
+<table>
+
+<tr>
+<td width="75%">
+
+<b>Linux System Information CLI</b>
+
+</td>
+
+<td width="25%" align="right">
+
+<a href="https://github.com/NiteenDigarse/01-linux-system-info">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Disk & Directory Analyzer
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Linux Process Explorer
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+C++ Log Analyzer
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+System Health Monitor
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Linux Process Manager
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Mini Linux Shell
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+C++ TCP Client/Server
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Multi-threaded C++ Server
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Production-Style C++ HTTP Server
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+C++ Build & Deployment CLI
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+C++ Service Watchdog
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+C++ System Monitoring Agent
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Containerized C++ Service
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+C++ CI/CD Pipeline
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Distributed Log Collector
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Mini CI/CD Runner
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Mini Container Runtime
+
+</td>
+
+<td align="right">
+
+</td>
+</tr>
+
+</table>
 
 Tools & Technologies
 
@@ -681,15 +789,15 @@ Testing · Debugging · Benchmarking · API Design · Documentation
 <div align="center">
 
 SOURCE CODE
-     ↓
+↓
 OBJECT LIFETIME
-     ↓
+↓
 MEMORY & OWNERSHIP
-     ↓
+↓
 CPU / OS BEHAVIOUR
-     ↓
+↓
 SYSTEM DESIGN
-     ↓
+↓
 PERFORMANCE
 
 </div>
