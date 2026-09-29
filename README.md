@@ -514,6 +514,50 @@ These are the projects I have actually completed as part of my C++ engineering j
 </td>
 </tr>
 
+<td width="50%" valign="top">
+
+CustomStack
+
+Modern C++ stack implementation using composition
+
+A generic LIFO stack built using a custom vector as its underlying storage, focusing on composition, adapter-style design, const-correctness, exception handling, and efficient stack operations.
+
+Key areas:
+
+LIFO data structure
+
+Composition and HAS-A relationship
+
+CustomVector as underlying storage
+
+Adapter-style container design
+
+Lvalue and rvalue push operations
+
+Copy and move semantics through underlying storage
+
+Const-correct API design
+
+Exception handling
+
+Bounds-checked top() and pop()
+
+Dedicated testing
+
+Stress testing
+
+Benchmarking against std::stack
+
+CMake-based project structure
+
+<br>
+
+<a href="https://github.com/NiteenDigarse/cpp-custom-stack">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
+</td>
+
 </table>
 
 More C++ engineering projects will be added as I progress through the roadmap.
