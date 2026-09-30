@@ -530,6 +530,21 @@ These are the projects I have actually completed as part of my C++ engineering j
 </td>
 </tr>
 
+<tr>
+<td>
+
+<b>CustomQueue</b>
+
+</td>
+
+<td align="right">
+
+<a href="https://github.com/NiteenDigarse/06-custom-queue">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+
+</td>
+</tr>
+
 
 
 </table>
