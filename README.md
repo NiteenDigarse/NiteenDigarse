@@ -547,6 +547,24 @@ These are the projects I have actually completed as part of my C++ engineering j
 
 
 
+
+<tr>
+<td>
+
+<b>Customhashmap</b>
+
+</td>
+
+<td align="right">
+
+<a href="https://github.com/NiteenDigarse/07-custom-hashmap">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+
+</td>
+</tr>
+
+
+
 </table>
 
 More C++ engineering projects will be added as I progress through the roadmap.
