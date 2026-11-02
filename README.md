@@ -565,6 +565,27 @@ These are the projects I have actually completed as part of my C++ engineering j
 
 
 
+
+<tr>
+<td>
+
+<b>CustomMemory-pool</b>
+
+</td>
+
+<td align="right">
+
+<a href="https://github.com/NiteenDigarse/08-memory-pool.git">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+
+</td>
+</tr>
+
+
+
+
+
+
 </table>
 
 More C++ engineering projects will be added as I progress through the roadmap.
